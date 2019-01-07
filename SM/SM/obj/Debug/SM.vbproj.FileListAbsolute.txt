@@ -1,0 +1,29 @@
+C:\Users\admin\Desktop\SM\SM\bin\Debug\SM.exe.config
+C:\Users\admin\Desktop\SM\SM\bin\Debug\SM.exe
+C:\Users\admin\Desktop\SM\SM\bin\Debug\SM.pdb
+C:\Users\admin\Desktop\SM\SM\bin\Debug\SM.xml
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.Form1.resources
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.Resources.resources
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.exe
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.xml
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.pdb
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.FormDodaj.resources
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.FormEdytuj.resources
+C:\Users\admin\Desktop\SM\SM\obj\Debug\SM.FormProducent.resources
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\bin\Debug\SM.exe.config
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\bin\Debug\SM.exe
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\bin\Debug\SM.pdb
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\bin\Debug\SM.xml
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.vbprojAssemblyReference.cache
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.Form1.resources
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.FormDodaj.resources
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.FormEdytuj.resources
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.FormProducent.resources
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.Resources.resources
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.vbproj.GenerateResource.cache
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.vbproj.CoreCompileInputs.cache
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.exe
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.xml
+C:\Users\Patryk\Downloads\SM v0.1 Pre-Alpha\SM\SM\obj\Debug\SM.pdb
